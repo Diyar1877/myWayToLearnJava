@@ -2,6 +2,8 @@ package LS02_AB08;
 
 import java.util.Scanner;
 
+// Ein Unternehmen zahlt seinen Mitarbeitern einen Jahresbonus basierend auf dem Jahresumsatz
+
 public class Bonus {
         private double jahresUmsatz;
         private double endBonus;
